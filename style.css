@@ -1,0 +1,36 @@
+body {
+    background-color: #edcfc4;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.header {
+    color: white;
+    background-color: #a14714;
+    width: fit-content;
+    /* display: flex;
+    justify-content: center; */
+}
+.info-bar {
+    background-color: gray;
+}
+.dish {
+    border-radius: 1px;
+    background-color: rgb(128, 40, 40);
+}
+.footer {
+    background-color: gray;
+    width: fit-content;
+}
+p {
+    color: #272b3c;
+}
+.Ingredients {
+    background-color: #edcfc4;
+    padding: px;
+}
+
+.main-img {
+    display: flex;
+    flex: auto;
+}
